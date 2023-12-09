@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../ncs"
+		},
+		{
+			"name": "hit-it-zephyr",
+			"path": "."
+		}
+	],
+	"settings": {
+		"nrf-connect.toolchain.path": "PATH",
+		"nrf-connect.topdir": "${workspaceFolder}",
+		"nrf-connect.applications": [
+			"/home/raphael/hit-it-zephyr"
+		],
+		"files.associations": {
+			"cmath": "c",
+			"*.tcc": "c"
+		}
+	}
+}
